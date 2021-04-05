@@ -4,9 +4,9 @@
 #### 4
 #### 5 Some random text by Enzo
 #### 6
-#### 7
+#### 7 My bagels were here!
 #### 8
-#### 9 Github is really good
+#### 9 Github is really awesome
 #### 10
 #### 11
 #### 12
