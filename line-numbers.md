@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-#### 11 Something Something about things
+#### 11 Something about texts
 #### 12
 #### 13
 #### 14
